@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Satyam-aka-UltimateST
 - 👀 I’m interested in Web Dev and open to other fields as well
 - 🌱 I’m currently learning CSS and JAVA Script
+- Currently Learning Web Development as well as Blockchain Dev
 
 
 <!---
