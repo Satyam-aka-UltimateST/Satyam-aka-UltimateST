@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Satyacasm
-- 👀 I’m interested in Web Dev and open to other fields as well
-- 🌱 I’m currently learning CSS and JAVA Script
-- Currently Learning Web Development as well as Blockchain Dev
+- 👋 Hi, I’m <strong> @Satyacasm </strong>
+- 👀 I’m interested in Web Development and open to other fields as well
+- 🌱 I’m currently learning JavaScript
+- 🚀Currently exploring Web Development as well as Solidity
 
 
 <!---
