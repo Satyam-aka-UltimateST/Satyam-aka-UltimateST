@@ -1,4 +1,4 @@
-<a class="profile-banner" href="https://ibb.co/P1svJYX"><img src="https://i.ibb.co/P1svJYX/background-g60448106a-1920.png" alt="background-g60448106a-1920" border="0" height="250" width="400" align="center"></a>
+<p align="center"><a class="profile-banner" href="https://ibb.co/P1svJYX"><img src="https://i.ibb.co/P1svJYX/background-g60448106a-1920.png" alt="background-g60448106a-1920" border="0" height="250" width="400" align="center"></a></p>
 <!-- <style>
   .profile-banner{
     margin-left: auto;
