@@ -1,10 +1,10 @@
-<a class="profile-banner" href="https://ibb.co/P1svJYX"><img src="https://i.ibb.co/P1svJYX/background-g60448106a-1920.png" alt="background-g60448106a-1920" border="0" height="250" width="400"></a>
-<style>
+<a class="profile-banner" href="https://ibb.co/P1svJYX"><img src="https://i.ibb.co/P1svJYX/background-g60448106a-1920.png" alt="background-g60448106a-1920" border="0" height="250" width="400" align="center"></a>
+<!-- <style>
   .profile-banner{
     margin-left: auto;
     margin-right: auto;
   }
-</style>
+</style> -->
 
 - 👋 Hi, I’m <strong> @Satyacasm </strong>
 - 👀 I’m interested in Web Development and open to other fields as well
