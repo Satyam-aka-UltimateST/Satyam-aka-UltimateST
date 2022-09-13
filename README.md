@@ -1,4 +1,4 @@
-<a href="https://ibb.co/Gt1nJst"><img src="https://i.ibb.co/Gt1nJst/profile-banner.jpg" alt="profile-banner" border="0" height="400px" width="1000px"></a>
+<a href="https://ibb.co/P1svJYX"><img src="https://i.ibb.co/P1svJYX/background-g60448106a-1920.png" alt="background-g60448106a-1920" border="0"></a>
 
 - 👋 Hi, I’m <strong> @Satyacasm </strong>
 - 👀 I’m interested in Web Development and open to other fields as well
