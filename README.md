@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development and open to other fields as well
 - 🌱 I’m currently learning JavaScript
 - 🚀Currently exploring Web Development as well as Solidity
+- 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Satyacasm)
 
 <!---
