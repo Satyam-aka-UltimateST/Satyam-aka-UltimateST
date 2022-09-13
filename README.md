@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 🚀Currently exploring Web Development as well as Solidity
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/satyacasm?style=social">
+[![Twitter Badge](https://img.shields.io/twitter/follow/satyacasm?style=social)
 <!---
 Satyam-aka-UltimateST/Satyam-aka-UltimateST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
