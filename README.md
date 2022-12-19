@@ -12,4 +12,4 @@ Satyam-aka-UltimateST/Satyam-aka-UltimateST is a ✨ special ✨ repository beca
 You can click the Preview link to take a look at your changes.
 --->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/satyacasm)
+![Leetcode Stats](https://leetcard.jacoblin.cool/UltimateST)
