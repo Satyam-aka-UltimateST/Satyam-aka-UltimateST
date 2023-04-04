@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="express" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" height="50"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://i.stack.imgur.com/AarYf.png" alt="latex" height="50"/> </a>
 ## Leetcode stats
 
